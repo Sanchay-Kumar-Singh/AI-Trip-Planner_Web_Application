@@ -1,3 +1,4 @@
+<h1>AI Trip Planner Web App 🌍</h1>
 💻 Technologies
 Frontend:
 
